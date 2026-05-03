@@ -1,0 +1,114 @@
+---
+title: Burlingame 学区升级置换：先买后卖风险控制｜案例
+aliases:
+  - Burlingame 学区升级置换：先买后卖风险控制｜案例
+url: https://mkbayarea.com/cases/burlingame-upsize-buy-case
+page_path: /cases/burlingame-upsize-buy-case
+site: mkbayarea.com
+organization: Meridian Keystone Real Estate Group
+date_archived: 2026-05-03
+language:
+  - zh-CN
+  - en
+screenshot: screenshots/cases-burlingame-upsize-buy-case.png
+tags:
+  - MKgroup
+  - real-estate
+  - case-study
+  - bay-area
+---
+
+# Burlingame 学区升级置换：先买后卖风险控制
+
+![[assets/mk-logo-new.png]]
+
+> [!quote]
+> 先买后卖时间错配，担心双重持有压力。
+
+Burlingame 学区升级置换：先买后卖风险控制
+
+买房 · Burlingame · $3M-$5M · 2025/9/18
+
+- 买房
+- Burlingame
+- $3M-$5M
+
+## S · 情境（Situation）
+
+家庭扩容，需要学区升级同时控制现金流。
+
+## T · 挑战（Task）
+
+先买后卖时间错配，担心双重持有压力。
+
+## A · 策略（Action）
+
+- 并行融资预审批
+- 设置灵活交割条款
+- 预留旧房上市缓冲期
+
+## R · 结果（Result）
+
+顺利完成置换，避免被迫降价出售旧房。
+
+- 置换周期可控
+- 现金流安全
+- 目标学区达成
+- 相关知识库
+- 返回案例库
+- Meridian Keystone
+- REAL ESTATE GROUP
+
+让好房子被更多买家看到。帮助您在高度不确定的世界里，做出长期、清醒、对人生负责的选择。
+
+- 卖房
+- 卖房总览
+- 卖房全流程
+- 卖房费用
+- Palo Alto 卖房
+- Atherton 卖房
+- Hillsborough 卖房
+- Menlo Park 卖房
+- 买房
+- 买房总览
+- Off-Market 房源
+- 跨境全现金
+- 学区指南
+- Cupertino 学区
+- Palo Alto 学区
+- 资源
+- 湾区整体走势
+- 豪宅市场
+- 2026年房价展望
+- 视频中心
+- 知识库
+- 湾区学区指南 →
+- 硅谷豪宅深度指南 →
+- 关于我们
+- 常见问题
+- 联系我们
+- Marie Wang
+- DRE# 02110980
+- 650.618.1222
+- marie.wang@kw.com
+- Kevin Mo
+- DRE# 02127623
+- 408.477.6638
+- kevin.mo@kw.com
+
+---
+
+![[assets/marie-wang.jpg|200]]
+
+**Marie Wang** · DRE# 02110980  
+📞 650-618-1222 · marie.wang@kw.com
+
+![[assets/kevin-mo.jpg|200]]
+
+**Kevin Mo** · DRE# 02127623  
+📞 408-477-6638 · kevin.mo@kw.com
+
+
+---
+
+![[screenshots/cases-burlingame-upsize-buy-case.png]]
