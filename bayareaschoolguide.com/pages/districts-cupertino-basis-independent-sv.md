@@ -8,6 +8,7 @@ site: bayareaschoolguide.com
 organization: Bay Area School Guide
 date_archived: 2026-05-03
 language:
+  - zh-CN
   - en
 screenshot: screenshots/districts-cupertino-basis-independent-sv.png
 tags:

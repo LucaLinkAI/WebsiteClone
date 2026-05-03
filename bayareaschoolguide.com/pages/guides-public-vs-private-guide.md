@@ -8,6 +8,7 @@ site: bayareaschoolguide.com
 organization: Bay Area School Guide
 date_archived: 2026-05-03
 language:
+  - zh-CN
   - en
 screenshot: screenshots/guides-public-vs-private-guide.png
 tags:

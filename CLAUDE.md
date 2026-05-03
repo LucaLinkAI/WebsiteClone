@@ -11,10 +11,10 @@ Multi-site content archive for the **MK Group** brand family. Each subfolder cap
 | Subfolder | Site | Pages | Language |
 |-----------|------|-------|----------|
 | `mkbayarea.com/` | mkbayarea.com | 133 | zh-CN / en |
-| `estatesmk.com/` | estatesmk.com | 37 | en |
-| `bayareaschoolguide.com/` | bayareaschoolguide.com | 92 | en |
+| `estatesmk.com/` | estatesmk.com | 37 | zh-CN / en |
+| `bayareaschoolguide.com/` | bayareaschoolguide.com | 92 | zh-CN / en |
 
-All three site subfolders live inside `/Users/junyuanlin/Project/MKgroup/`.
+All three site subfolders live inside `MKgroup/`.
 
 ---
 

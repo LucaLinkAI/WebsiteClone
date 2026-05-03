@@ -8,6 +8,7 @@ site: estatesmk.com
 organization: Estates MK
 date_archived: 2026-05-03
 language:
+  - zh-CN
   - en
 screenshot: screenshots/lifestyle-architecture.png
 tags:
